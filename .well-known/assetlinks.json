@@ -1,0 +1,7 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "scan.goals.twa",
+      "sha256_cert_fingerprints": ["07:EE:48:AC:CB:E5:32:81:55:89:EF:E1:9F:AD:4D:83:A2:6F:8A:E3:8B:53:25:D1:58:3E:75:B0:1D:DF:B3:33"]}
+  }]
